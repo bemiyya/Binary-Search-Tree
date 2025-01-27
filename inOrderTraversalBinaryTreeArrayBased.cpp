@@ -1,7 +1,7 @@
 /*
 	Name: In-order traversal on array based BST
 	Copyright: 2024
-	Author: Jakhongir Mirzayev
+	Author: Jakhongir Mirzo
 	Date: 14/11/24 21:07
 	Description: Traverses in-order through an array based binary tree recursively
 */
